@@ -1,2 +1,10 @@
-.header{background-color: aqua; height: 150px;}
-.div{background-color: aquamarine;}
+*{margin: 5px;}
+.header{background-image: url(../images/computer.webp); height: 100px; m 10px; font-size: 32px; font-weight: 900; color: aliceblue; text-align: center; background-size: cover; border: 10px; border-radius: 10px 50px;}
+.div{background-color: aquamarine; border: 10px solid rgb(66, 190, 107); border-radius: 40px 10px; box-shadow: 5px 5px 5px rgb(113, 255, 47); margin: 15px;}
+
+.button{margin: 15px; border: 5px solid rgb(124, 248, 67); border-radius: 20px 40px; background-color:rgb(223, 255, 80); font-size: 30px; font-weight: bolder;}
+
+.footer{background-image: url(../abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-101417.avif);
+color: antiquewhite; height: 250px;}
+.h4{text-align: left; font-size: 30px;}
+.divf{ text-align: center; font-size: 25px;}
